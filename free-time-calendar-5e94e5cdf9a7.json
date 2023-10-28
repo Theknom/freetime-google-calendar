@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "free-time-calendar",
+  "private_key_id": "5e94e5cdf9a705d993da9bc45c5f277114a110d9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCeLvzc2Olu4yGh\nxKYYMOr32yLYBgmRuBPlunqME9sR6oD1rJGpR7aSOqARpYdQdZ/eEsa8b9Wok5d+\nuQ19hN56RsCZkH07DiADoKw5P1vKBq4zl8y/LBYS9kwYc7+uudTUWOoQtIKU+8DO\nHOrsKPjQ2VQ+DhUAxKzb9Xqg0n6JpOm7niBJ160RV4ECTmGq28vV8x1ULkBx1v+i\n59AjvQ5bcusOLNY6XNIUKdU6Hn2qbaey0HR22MeYkxG/XZem2LxvAVx5GdHHw3QR\nuiHNnzarqmqzFf6FpHhAK2mcqLl9EtVG4W8TvfjcFMw9NqD52TZc9iLTNDIFeMOf\nHa9a62YdAgMBAAECggEAFzq5lH8K12dlzCPyQPGHbUrnf4dyG/hHJ8CDougpjs8m\nuAKVyMuzYnRXMbA4F6yRA7jd1CoCMNrXxQV3lzFjcIZ3szV2RoKzrdoIYJx5e3Nm\nspnouJbzTj6QJzPG+D7po8jDkBzKDlyNewHhIo7TwevLGhUm/XFkcdAcqDBb4moz\nwYF2heYF8Rjff2NeoqGmS3ZhGdu1K22V0F1VjX+WnwGiZ1MZ7o3VlNlLdf5Q9yJB\nSKO4mVEgQJz24qCU2xMigP3rTipfPmzigFEDRji5W+YT/dGSl3Fv+s8wLqiLkrNH\nZvF7pLfb+2vfsD6AkJZX93WPQ8sts/gldM0UPR7t6wKBgQDP8y9wl0UeZgIVShvp\n1RKm7XLQzcAj0B32Ku2/GQ/VH2zfPHwIxiDu1mAgEGsVbQiK56Z75IqdntJ0MeyM\nMG0Ivh2L2aD/o2t78kiSASRiEnyGSi+UaR5nOu7aMZSAQ0cWSPk+iuuCYNi0MknA\nTG49Mqa1GV0pN52KM/TTku5tnwKBgQDCu/t5LkKIKrhcPGj6qUpGP3pCVMPDHHpk\nhnTYGcJl7+tkJ0QlEcAUhXSLfuNKzLnexTSawfz5sxtPxcRwkqFEZz8I/67Ma2ff\nlWv6UMKbjVFF0zel4EiQyj4pLpSuP8M4+gI935BN1F6oRaJ4VVAueM4oLjOviThF\npH6MZLxawwKBgQCsEPlsHH8gzB9lJlE6hwhL/6ZFiDo4Z/iivJrEySQEoWAgx5eK\nWwbdGZ2oam1w6StsZImpck4QZl6VrsmgpmFSHp2sHoPNg5dok+3ggfls/Qb0x2Xf\nU6vIl0cUXHoYN5MWqYMzcRe2ZhRp5kKIT7XYBZVTvI0NketVc/BdMPMA2QKBgAzD\n1dAzwBi89CjXrOoBfuTr9E+0zsBTdZJxXedsiNm1yHBgQo9LgpPVy7X5M10L3oND\n2hbq8HJN01R/Wkkm03twaSll2Ud9Iun9GX7nHFqmANXa6qLs+NTE7R4193kUpO9v\nNAZqSUNQ0IOnTOcmcIMbWCg6Hxk6nX2zMrhxQgeRAoGBALEwHfROj+jr7bPulkN7\n4icFQ5YKim1gSWSVk7W3tycf9FAgPa/YflhdHWPaqG/xVofUdlbc1W/W8AzSsoX4\nHcmT+tzIq6ks78VxM1zzCn0QQamQk3UmElf07z7ACIgFJrz6MLVuhzXJnqzwl/o0\nvuNumJbiRyePvQc8zZRdtHXs\n-----END PRIVATE KEY-----\n",
+  "client_email": "freetime-calendar@free-time-calendar.iam.gserviceaccount.com",
+  "client_id": "117856805948621749625",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/freetime-calendar%40free-time-calendar.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
